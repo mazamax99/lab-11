@@ -1,0 +1,2 @@
+javac InterfaceBat.java
+pause
